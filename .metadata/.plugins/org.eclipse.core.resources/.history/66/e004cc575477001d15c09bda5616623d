@@ -1,0 +1,5 @@
+package com.projetoautoral.UsuarioDept.entities;
+
+public class Department {
+
+}

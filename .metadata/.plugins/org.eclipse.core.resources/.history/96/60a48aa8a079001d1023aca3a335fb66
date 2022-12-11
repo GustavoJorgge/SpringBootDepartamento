@@ -1,0 +1,5 @@
+package com.projetoautoral.UsuarioDept.controllers;
+
+public class UserController {
+
+}
